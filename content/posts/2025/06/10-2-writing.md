@@ -4,7 +4,7 @@ title: "Writing"
 authors: ["Agate"]
 description: "Why does scientific writing have to be so soulless?"
 tags: [general, life]
-featured_image: "/images/notebook.jpg"
+featured_image: "/images/beach1.jpg"
 categories: All
 comment : false
 hidden: false
