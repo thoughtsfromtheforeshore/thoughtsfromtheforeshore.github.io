@@ -1,13 +1,14 @@
 ---
 date: 2025-06-10T18:26:06+01:00
 title: "Writing"
+authors: ["Agate"]
 description: "Why does scientific writing have to be so soulless?"
 tags: [general, life]
 featured_image: "/images/notebook.jpg"
 categories: All
 comment : false
 hidden: false
-draft: true
+draft: false
 ---
 
 I'm in the middle of writing a very long report about the climate of the North Atlantic.
