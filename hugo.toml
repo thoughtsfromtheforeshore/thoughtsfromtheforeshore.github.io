@@ -1,0 +1,29 @@
+baseURL = 'https://thoughtsfromtheforeshore.uk/'
+languageCode = 'en-gb'
+title = 'Thoughts From the Foreshore'
+theme = 'hugo-theme-diary'
+DefaultContentLanguage = "en"
+
+
+[params]
+favicon = "Your Favicon Address"
+
+[taxonomies]
+   category = "categories"
+   tag = "tags"
+
+[[menu.main]]
+url = "/categories"
+name = "Categories"
+weight = 3
+
+[[menu.main]]
+url = "/tags"
+name = "Tags"
+weight = 2
+
+[[menu.main]]
+url = "/posts"
+name = "Archive"
+weight = 1
+

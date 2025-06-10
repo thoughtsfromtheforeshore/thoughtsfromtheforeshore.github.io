@@ -1,0 +1,49 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts From the Foreshore</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Thoughts From the Foreshore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 10 Jun 2025 18:26:06 +0100</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Writing</title>
+        <link>http://localhost:1313/2025/06/10-2-writing/</link>
+        <pubDate>Tue, 10 Jun 2025 18:26:06 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2025/06/10-2-writing/</guid>
+        <description>Thoughts From the Foreshore http://localhost:1313/2025/06/10-2-writing/ -&lt;p&gt;I&amp;rsquo;m in the middle of writing a very long report about the climate of the North Atlantic.&lt;/p&gt;
+&lt;p&gt;When I was younger, I used to enjoy writing almost as much as reading. Producing essays for physics lessons in school, I would employ all of the sentence structures, grammatical delights and archaic oddities I had found in the works of Jane Austen, or Charles Dickens, as well as in the writing of old scientists like Darwin. Somehow it never seemed to matter that the result read somewhat oddly to the modern eye.&lt;/p&gt;
+&lt;p&gt;In the last few years, I&amp;rsquo;ve been producing report after report of &amp;ldquo;scientific writing&amp;rdquo;, having to follow the rigid style employed by my profession. So much of the life of the writing, and of the subject matter is sucked out of these reports, leaving no more than a shell of the process or phenomenon being discussed. I have even forgotten how to write engagingly and entertainingly, and to produce a thing of beauty with words.&lt;/p&gt;
+&lt;p&gt;Why does our university system, and academia in general in the scientific field, place so much emphasis on homogeneity of writing? They take the seeds of great authorship and squash them out of all but the strongest, leaving nothing but an ability to parrot the bland style of &amp;ldquo;the literature&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;I am not saying that I think all scientists should have the way with words of a Tolstoy, or a Proust. Nor am I calling for a degradation of scientific accuracy in favour of flowery language. What I am saying is that, if the students who will go on to be the scientists of the future were allowed a bit more artistic freedom in how they said things (not in what they say), the reports they would go on to produce might become a joy to read, rather than a chore.&lt;/p&gt;
+- http://localhost:1313/2025/06/10-2-writing/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>A Beginning</title>
+        <link>http://localhost:1313/2025/06/10-1-a-beginning/</link>
+        <pubDate>Tue, 10 Jun 2025 18:07:59 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2025/06/10-1-a-beginning/</guid>
+        <description>Thoughts From the Foreshore http://localhost:1313/2025/06/10-1-a-beginning/ -&lt;p&gt;Hello and welcome to my blog.&lt;/p&gt;
+&lt;p&gt;That was directed as much at me as it at you.&lt;/p&gt;
+&lt;p&gt;I have no idea what I am going to end up writing here. I have no idea if there will be anything worth reading. I don&amp;rsquo;t even know if I want anyone to read it.&lt;/p&gt;
+&lt;p&gt;I have set two rules.&lt;/p&gt;
+&lt;p&gt;First, something must be written here at least once every day. This is likely to be mainly just an interesting encounter or a thought that has come into my head, but may end up including longer and more interesting content. We will see.&lt;/p&gt;
+&lt;p&gt;The second rule is that once a post is up, it stays up. Whatever happens it stays up.&lt;/p&gt;
+&lt;p&gt;Maybe at some point this blog will get some readers. Maybe it will not. In either case, I am excited to see what unfolds.&lt;/p&gt;
+- http://localhost:1313/2025/06/10-1-a-beginning/ - </description>
+        </item>
+    
+    
+  </channel>
+</rss> 
