@@ -4,7 +4,7 @@ title: "A Beginning"
 authors: ["Agate"]
 description: "This is where it starts."
 tags: [general, life]
-featured_image: 
+featured_image: ""
 categories: All
 comment: false
 hidden: false
