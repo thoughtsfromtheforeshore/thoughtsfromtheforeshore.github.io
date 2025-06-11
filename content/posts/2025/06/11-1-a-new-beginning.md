@@ -7,7 +7,7 @@ hidden: false
 featured_image: "/images/rainbow.jpg"
 images: []
 tags: [general, life]
-categories: [All]
+categories: All
 description: ""
 draft: false
 ---
