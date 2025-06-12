@@ -6,7 +6,7 @@ DefaultContentLanguage = "en"
 
 
 [params]
-favicon = "Your Favicon Address"
+favicon = "/favicon.ico"
 enablereadingtime = true
 
 [taxonomies]
