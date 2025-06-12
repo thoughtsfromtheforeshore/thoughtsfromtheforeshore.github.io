@@ -7,6 +7,7 @@ DefaultContentLanguage = "en"
 
 [params]
 favicon = "/favicon.ico"
+logo = "logos/logo-t.png"
 enablereadingtime = true
 
 [taxonomies]
