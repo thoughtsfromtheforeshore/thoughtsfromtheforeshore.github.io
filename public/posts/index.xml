@@ -2,52 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Thoughts From the Foreshore</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://thoughtsfromtheforeshore.uk/posts/</link>
     <description>Recent content in Posts on Thoughts From the Foreshore</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 12 Jun 2025 00:59:25 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Nov 2025 03:21:46 +0000</lastBuildDate>
+    <atom:link href="https://thoughtsfromtheforeshore.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long Time No See</title>
+      <link>https://thoughtsfromtheforeshore.uk/posts/2025/11/05-1-long-time-no-see/</link>
+      <pubDate>Wed, 05 Nov 2025 03:21:46 +0000</pubDate>
+      <guid>https://thoughtsfromtheforeshore.uk/posts/2025/11/05-1-long-time-no-see/</guid>
+      <description>&lt;p&gt;Well. This hasn&amp;rsquo;t exactly gone to plan, has it&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;When I set out to create this blog, I promised myself that I would make at least one post per day, and sometimes more, depending on how the mood took me. As things have turned out, it has been 5 months since my last post. Life took me in some interesting directions, and it turns out that tiredness, of a kind less favourable than that spoken about in my last post, took me by the horns and forced me into a state of apathy in all of my spare time for much of the time since that post. Finding the will to do anything beyond what is necessary for daily life has been a major struggle, and the energy I have had has felt more sefully employed in persuing my other hobbies than writing here.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Tiredness</title>
-      <link>http://localhost:1313/posts/2025/06/12-1-tiredness/</link>
+      <link>https://thoughtsfromtheforeshore.uk/posts/2025/06/12-1-tiredness/</link>
       <pubDate>Thu, 12 Jun 2025 00:59:25 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2025/06/12-1-tiredness/</guid>
+      <guid>https://thoughtsfromtheforeshore.uk/posts/2025/06/12-1-tiredness/</guid>
       <description>&lt;p&gt;Tiredness is a strange beast. It raises its head in so many different guises that it is hard, sometimes, to determine its nature or intentions.&lt;/p&gt;&#xA;&lt;p&gt;There is the tiredness at the end of a long day spent well in hard physical work outdoors: a clean, all encompassing tiredness that says &amp;ldquo;You have done well. You may now sleep.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;This is very different from the tiredness resulting from a day spent sitting at a desk, or on a sofa, staring at a computer screen and trying to write a report, or produce computer code. That tiredness is not clean, and does not reassure you. Instead it says &amp;ldquo;Well that is a day you will never get back. Maybe you will make more of tomorrow. Best sleep now and see what it brings.&amp;rdquo; But so often sleep does not come.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Friendship</title>
-      <link>http://localhost:1313/posts/2025/06/11-3-friendship/</link>
+      <link>https://thoughtsfromtheforeshore.uk/posts/2025/06/11-3-friendship/</link>
       <pubDate>Wed, 11 Jun 2025 02:58:14 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2025/06/11-3-friendship/</guid>
+      <guid>https://thoughtsfromtheforeshore.uk/posts/2025/06/11-3-friendship/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m always amazed by how little there is to say to people who you haven&amp;rsquo;t seen for a while, compared to those you see every day. Yes, if it has been years, and they were a good friend, there are the major events of the intervening time to catch up on, but a month, or two months seems to be a low point on the conversation scale.&lt;/p&gt;&#xA;&lt;p&gt;When you see someone every day, they are closely entwined with your life. Their trials are, to some extent, your trials, as are yours to them; you discuss the things that annoyed you in the office, or out collecting data, or washing the dishes, and somehow these little things are enough to keep you amused for hours.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Train Seats</title>
-      <link>http://localhost:1313/posts/2025/06/11-2-train-seats/</link>
+      <link>https://thoughtsfromtheforeshore.uk/posts/2025/06/11-2-train-seats/</link>
       <pubDate>Wed, 11 Jun 2025 02:50:34 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2025/06/11-2-train-seats/</guid>
+      <guid>https://thoughtsfromtheforeshore.uk/posts/2025/06/11-2-train-seats/</guid>
       <description>&lt;p&gt;I had forgotten how nice the seats on mainline trains are compared to the local commuter trains I travel on every week.&lt;/p&gt;&#xA;&lt;p&gt;For the first time in far too long, I took a long train journey to see a friend on the other side of the country, and was blown away by the comparative luxury.&lt;/p&gt;&#xA;&lt;p&gt;To have enough leg room to sit without one&amp;rsquo;s knees digging into the seat in front felt like heaven, and there was even enough room that I could have my laptop on the coffee table and get some work done along the way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A New Beginning</title>
-      <link>http://localhost:1313/posts/2025/06/11-1-a-new-beginning/</link>
+      <link>https://thoughtsfromtheforeshore.uk/posts/2025/06/11-1-a-new-beginning/</link>
       <pubDate>Wed, 11 Jun 2025 02:08:29 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2025/06/11-1-a-new-beginning/</guid>
+      <guid>https://thoughtsfromtheforeshore.uk/posts/2025/06/11-1-a-new-beginning/</guid>
       <description>&lt;p&gt;I didn&amp;rsquo;t think that there&amp;rsquo;d be anything to say on the housekeeping front so early in the life of this blog, but a lot has changed over the last couple of days.&lt;/p&gt;&#xA;&lt;p&gt;The chances are that no one will have noticed the changes, as things are still in their early days, and it is unlikely that there have been any visitors yet. But for the single person reading this in 10 years time, this blog started its life on Blogger, before moving to its current home.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Writing</title>
-      <link>http://localhost:1313/posts/2025/06/10-2-writing/</link>
+      <link>https://thoughtsfromtheforeshore.uk/posts/2025/06/10-2-writing/</link>
       <pubDate>Tue, 10 Jun 2025 18:26:06 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2025/06/10-2-writing/</guid>
+      <guid>https://thoughtsfromtheforeshore.uk/posts/2025/06/10-2-writing/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m in the middle of writing a very long report about the climate of the North Atlantic.&lt;/p&gt;&#xA;&lt;p&gt;When I was younger, I used to enjoy writing almost as much as reading. Producing essays for physics lessons in school, I would employ all of the sentence structures, grammatical delights and archaic oddities I had found in the works of Jane Austen, or Charles Dickens, as well as in the writing of old scientists like Darwin. Somehow it never seemed to matter that the result read somewhat oddly to the modern eye.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Beginning</title>
-      <link>http://localhost:1313/posts/2025/06/10-1-a-beginning/</link>
+      <link>https://thoughtsfromtheforeshore.uk/posts/2025/06/10-1-a-beginning/</link>
       <pubDate>Tue, 10 Jun 2025 18:07:59 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2025/06/10-1-a-beginning/</guid>
+      <guid>https://thoughtsfromtheforeshore.uk/posts/2025/06/10-1-a-beginning/</guid>
       <description>&lt;p&gt;Hello and welcome to my blog.&lt;/p&gt;&#xA;&lt;p&gt;That was directed as much at me as it is at you.&lt;/p&gt;&#xA;&lt;p&gt;I have no idea what I am going to end up writing here. I have no idea if there will be anything worth reading. I don&amp;rsquo;t even know if I want anyone to read it.&lt;/p&gt;&#xA;&lt;p&gt;I have set two rules.&lt;/p&gt;&#xA;&lt;p&gt;First, something must be written here at least once every day. This is likely to be mainly just an interesting encounter or a thought that has come into my head, but may end up including longer and more interesting content. We will see.&lt;/p&gt;</description>
     </item>
   </channel>
